@@ -1,10 +1,8 @@
-package es.cheste._001_KAPREKAR;
+package es.cheste;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 
-public class Main {
+public class P001 {
     static java.util.Scanner in;
     static final int K_KAPREKAR = 6174;
     public static void casoDePrueba() {
@@ -57,7 +55,7 @@ public class Main {
         }
 
         return Integer.parseInt(cadenaOrdenada);
-
+        
     }
 
     public static void main(String[] args) {

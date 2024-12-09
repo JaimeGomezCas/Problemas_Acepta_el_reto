@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd8e7c16-39d7-4583-a2c3-b5cd2b19cd08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cheste/_001_KAPREKAR/Main.java" afterDir="false" />
+    <list default="true" id="fd8e7c16-39d7-4583-a2c3-b5cd2b19cd08" name="Changes" comment="ejercicio 1 kaprekar">
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cheste/P002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cheste/P003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cheste/P004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/cheste/_001_KAPREKAR/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cheste/P001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JaimeGomezCas"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JaimeGomezCas/Problemas_Acepta-el-reto.git",
+    "accountId": "57182422-8972-4408-8f6f-c013563516cd"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -37,22 +47,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/ACEPTA EL RETO/ACEPTA EL RETO/src/main/java/es/cheste/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.P001.executor": "Run",
+    "Application.P003.executor": "Run",
+    "Application.P004.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/ACEPTA EL RETO/ACEPTA EL RETO",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/ACEPTA EL RETO/ACEPTA EL RETO/src/main/java/es/cheste/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ACEPTA EL RETO" />
@@ -85,11 +99,62 @@
       <option name="presentableId" value="Default" />
       <updated>1728990024933</updated>
       <workItem from="1728990025983" duration="2618000" />
-      <workItem from="1728992650903" duration="394000" />
+      <workItem from="1728992650903" duration="491000" />
+      <workItem from="1729062857769" duration="2760000" />
+      <workItem from="1729077712510" duration="5000" />
+      <workItem from="1729077900891" duration="4616000" />
+      <workItem from="1729145518894" duration="27000" />
+      <workItem from="1729145827861" duration="634000" />
+      <workItem from="1729146646539" duration="10748000" />
+      <workItem from="1729243758916" duration="3566000" />
+      <workItem from="1729250886499" duration="502000" />
+      <workItem from="1729577514083" duration="345000" />
+      <workItem from="1729585193130" duration="342000" />
+      <workItem from="1729683512373" duration="16000" />
+      <workItem from="1733746872000" duration="4370000" />
     </task>
+    <task id="LOCAL-00001" summary="ejercicio 1 kaprekar">
+      <option name="closed" value="true" />
+      <created>1728993106852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728993106852</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ejercicio 1 kaprekar" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 1 kaprekar" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/es/cheste/P003.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/es/cheste/P004.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/es/cheste/P004.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="mensajeDecodificado" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
