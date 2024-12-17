@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd8e7c16-39d7-4583-a2c3-b5cd2b19cd08" name="Changes" comment="ejercicio 1 kaprekar">
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cheste/P002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cheste/P003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cheste/P004.java" afterDir="false" />
+    <list default="true" id="fd8e7c16-39d7-4583-a2c3-b5cd2b19cd08" name="Changes" comment="p004">
+      <change afterPath="$PROJECT_DIR$/src/main/java/es/cheste/P005.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/cheste/_001_KAPREKAR/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cheste/P001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/cheste/P004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cheste/P004.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "JaimeGomezCas"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JaimeGomezCas&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/JaimeGomezCas/Problemas_Acepta-el-reto.git",
-    "accountId": "57182422-8972-4408-8f6f-c013563516cd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JaimeGomezCas/Problemas_Acepta-el-reto.git&quot;,
+    &quot;accountId&quot;: &quot;57182422-8972-4408-8f6f-c013563516cd&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -52,7 +50,7 @@
     "Application.Main.executor": "Run",
     "Application.P001.executor": "Run",
     "Application.P003.executor": "Run",
-    "Application.P004.executor": "Debug",
+    "Application.P004.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -111,7 +109,14 @@
       <workItem from="1729577514083" duration="345000" />
       <workItem from="1729585193130" duration="342000" />
       <workItem from="1729683512373" duration="16000" />
-      <workItem from="1733746872000" duration="4370000" />
+      <workItem from="1733746872000" duration="4755000" />
+      <workItem from="1733814909499" duration="109000" />
+      <workItem from="1733815364244" duration="630000" />
+      <workItem from="1733819844839" duration="9249000" />
+      <workItem from="1733901184307" duration="687000" />
+      <workItem from="1733922266337" duration="206000" />
+      <workItem from="1733923156662" duration="1642000" />
+      <workItem from="1734086040585" duration="5479000" />
     </task>
     <task id="LOCAL-00001" summary="ejercicio 1 kaprekar">
       <option name="closed" value="true" />
@@ -121,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728993106852</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="p004">
+      <option name="closed" value="true" />
+      <created>1733752706203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733752706203</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +142,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ejercicio 1 kaprekar" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 1 kaprekar" />
+    <MESSAGE value="p004" />
+    <option name="LAST_COMMIT_MESSAGE" value="p004" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -139,22 +153,7 @@
           <line>18</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/es/cheste/P004.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/es/cheste/P004.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="mensajeDecodificado" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
