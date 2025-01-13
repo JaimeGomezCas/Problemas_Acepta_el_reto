@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd8e7c16-39d7-4583-a2c3-b5cd2b19cd08" name="Changes" comment="p004">
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/cheste/P005.java" afterDir="false" />
+    <list default="true" id="fd8e7c16-39d7-4583-a2c3-b5cd2b19cd08" name="Changes" comment="p005 - proceso">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/es/cheste/P004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cheste/P004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/cheste/P005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/cheste/P005.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,26 +44,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.P001.executor": "Run",
-    "Application.P003.executor": "Run",
-    "Application.P004.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/ACEPTA EL RETO/ACEPTA EL RETO",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/ACEPTA EL RETO/ACEPTA EL RETO/src/main/java/es/cheste/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P005.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ACEPTA EL RETO/ACEPTA EL RETO&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/ACEPTA EL RETO/ACEPTA EL RETO/src/main/java/es/cheste/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ACEPTA EL RETO" />
@@ -117,6 +117,11 @@
       <workItem from="1733922266337" duration="206000" />
       <workItem from="1733923156662" duration="1642000" />
       <workItem from="1734086040585" duration="5479000" />
+      <workItem from="1734419219754" duration="515000" />
+      <workItem from="1734424376692" duration="302000" />
+      <workItem from="1734427153867" duration="86000" />
+      <workItem from="1736251008255" duration="1503000" />
+      <workItem from="1736771765158" duration="2314000" />
     </task>
     <task id="LOCAL-00001" summary="ejercicio 1 kaprekar">
       <option name="closed" value="true" />
@@ -134,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733752706203</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="p005 - proceso">
+      <option name="closed" value="true" />
+      <created>1734419334034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734419334034</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +156,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ejercicio 1 kaprekar" />
     <MESSAGE value="p004" />
-    <option name="LAST_COMMIT_MESSAGE" value="p004" />
+    <MESSAGE value="p005 - proceso" />
+    <option name="LAST_COMMIT_MESSAGE" value="p005 - proceso" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
