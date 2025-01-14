@@ -35,14 +35,6 @@ public class P005 {
         return matriz;
     }
 
-//    private static void imprimirMatriz(int[][] matriz) {
-//        for (int[] ints : matriz) {
-//            for (int j = 0; j < matriz[0].length; j++) {
-//                System.out.print(ints[j] + " ");
-//            }
-//            System.out.println();
-//        }
-//    }
 
     private static void casoDePrueba(int[][] matriz) {
         //imprimirMatriz(matriz);
@@ -73,8 +65,7 @@ public class P005 {
             matriz[temp - i - 1] = lineas.get(0);
             lineas.remove(0);
         }
-        //System.out.println("-------");
-        //imprimirMatriz(matriz);
+
         return matriz;
     }
 
@@ -91,7 +82,6 @@ public class P005 {
                 buscarPrimerCeroIzquierdo(totalFilaActual, matriz);
             }
 
-
         }
 
         for (int[] fila : matriz) {
@@ -102,8 +92,6 @@ public class P005 {
                 }
             }
         }
-//        System.out.println("RESULTADO");
-//        imprimirMatriz(matriz);
 
         if (balanceado) {
             System.out.println("SI");
